@@ -10,6 +10,4 @@ int main(){
     std::cout<<"basi";
     x=himadry2::x+himadry::x;
     std::cout<<x;
- 
-    return 0;
 }
